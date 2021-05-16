@@ -33,6 +33,10 @@ $$Test Cases
 ![image](https://user-images.githubusercontent.com/56696006/118405781-f4012f00-b696-11eb-9b9f-a68ca41606a2.png)
 
 4]Input=5
+
+
+
+![image](https://user-images.githubusercontent.com/56696006/118405811-227f0a00-b697-11eb-8aad-527282b9bcdd.png)
  
  $$Technologies used:
 •	ReactJs is used to develop this assignment .
