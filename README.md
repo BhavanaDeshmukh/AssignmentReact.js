@@ -13,6 +13,7 @@ It is used to push key-value into the table for display.
 
 $$Test Cases
 1] Home
+![image](https://user-images.githubusercontent.com/56696006/118405495-cf588780-b695-11eb-8bb9-e8df8bf9e328.png)
 2] Input=0 
 3]Input=1
 4]Input=5
