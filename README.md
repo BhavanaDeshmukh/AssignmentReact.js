@@ -18,17 +18,19 @@ $$Test Cases
 
 
 ![image](https://user-images.githubusercontent.com/56696006/118405495-cf588780-b695-11eb-8bb9-e8df8bf9e328.png)
+
 2] Input=0 
 
 
 
 
 ![image](https://user-images.githubusercontent.com/56696006/118405597-6ae9f800-b696-11eb-853e-d317c6df342d.png)
+
 3]Input=1
 
 
 
-
+![image](https://user-images.githubusercontent.com/56696006/118405781-f4012f00-b696-11eb-9b9f-a68ca41606a2.png)
 
 4]Input=5
  
